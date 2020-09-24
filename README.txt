@@ -1,8 +1,6 @@
-A theoretical, chemical system reproducing some biological features
 
-Francisco Javier Lobo-Cabrera
+abput a theoretical, chemical system reproducing some biological features
 
-Universidad Pablo de Olavide (Spain) francisco.lobo6@gmail.com
 
 Here, a chemical system based on polymers is discussed that contains some elements typically associated with life. The system may provide insights into evolution.
 
